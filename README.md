@@ -27,7 +27,7 @@ The Azure tagging script (`azure_tagging_script.py`) allows you to apply tags to
 ### Prerequisites
 
 1. Python 3.x installed on your system.
-2. Azure SDK for Python: `pip install azure-common azure-mgmt-compute azure-mgmt-resource`
+2. Azure SDK for Python: ```console pip install azure-common azure-mgmt-compute azure-mgmt-resource```
 
 ### Usage
 
