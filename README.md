@@ -14,7 +14,7 @@ The AWS tagging script (`aws_tagging_script.py`) allows you to apply tags to AWS
 ### Usage
 
 To use the AWS tagging script, run the following command in your terminal or command prompt: 
-python aws_tagging_script.py <ec2_instance_id> <tag1_key:tag1_value> <tag2_key:tag2_value> ...
+(```)python aws_tagging_script.py <ec2_instance_id> <tag1_key:tag1_value> <tag2_key:tag2_value> ...(```)
 - `<ec2_instance_id>`: The ID of the EC2 instance to which you want to apply tags.
 - `<tag1_key:tag1_value> <tag2_key:tag2_value> ...`: Provide one or more key-value pairs for the tags you want to apply to the EC2 instance.
 
@@ -30,7 +30,7 @@ The Azure tagging script (`azure_tagging_script.py`) allows you to apply tags to
 ### Usage
 
 To use the Azure tagging script, run the following command in your terminal or command prompt:
-python azure_tagging_script.py <resource_group_name> <vm_name> <tag1_key:tag1_value> <tag2_key:tag2_value> ...
+(```)python azure_tagging_script.py <resource_group_name> <vm_name> <tag1_key:tag1_value> <tag2_key:tag2_value> ...(```)
 
 - `<resource_group_name>`: The name of the Azure resource group where the VM is located.
 - `<vm_name>`: The name of the Azure VM to which you want to apply tags.
