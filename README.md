@@ -9,7 +9,7 @@ The AWS tagging script (`aws_tagging_script.py`) allows you to apply tags to AWS
 ### Prerequisites
 
 1. Python 3.x installed on your system.
-2. Boto3 library for AWS interactions: `pip install boto3`
+2. Boto3 library for AWS interactions: ```console pip install boto3```
 
 ### Usage
 
